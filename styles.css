@@ -162,6 +162,10 @@ section {
   height: auto;
 }
 
+.section_bio {
+    background-image: url('images/baniere_site.png');
+}
+
 .section_title {
     display:flex;
     flex-direction: column;
