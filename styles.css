@@ -23,7 +23,7 @@ header {
 
 .header_content {
     display:flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
     
     max-width: 60vw;
